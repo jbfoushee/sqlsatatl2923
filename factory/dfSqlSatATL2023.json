@@ -1,0 +1,9 @@
+{
+	"name": "dfSqlSatATL2023",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3f9d8e15-7efe-42ce-8bb5-b448c67143bb",
+		"tenantId": "105115f8-9869-4577-8a92-8c42eb74311c"
+	}
+}
